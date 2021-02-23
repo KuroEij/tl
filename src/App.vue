@@ -15,7 +15,7 @@ export default {
   },
   methods:{
     test(){
-      console.log(111)
+      console.log(1)
     }
   }
 }
